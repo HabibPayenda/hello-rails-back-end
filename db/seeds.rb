@@ -1,4 +1,4 @@
-4.times do |i|
+5.times do |i|
   Hello.create!(
     greating: "hello #{i}"
   )
